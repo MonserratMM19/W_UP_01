@@ -73,6 +73,10 @@ this shows is what it would be if there were no differences inbetween the amount
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
-
-
+  
+first I opened the boxplot graph to display numerical date explained by in categorical data in which there is two category in which it allowed us to see that: the line payers are doing less pushup then the skill payers. the skill players having 70% at their highest and 25% at their lowest, while the line players are only at 28% in their highest and 10% at their lowest.  
+  
+  secondly, I oped a Numerical Descriptive Results to show that in Q1 for the line players is 10.25 and Q1 for skill players with a 31.25. along with the other numbers show us the fact the the Skill players do much more pushups then the line players.  
+    
+  and lastly we run a statistical test also known as a 'T' test, this is when comparing numerical data explained by categorical data when there are only 2 categories. this shows how the changes between the line and skill players would be if there were no differences in between the amount of pushups. which showed that the value of pushsups 'P' was a small therefor the results are insignificant.  
 
