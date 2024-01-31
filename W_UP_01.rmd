@@ -67,7 +67,9 @@ this shows that Q1 for the line players is 10.25 and Q1 for skill players with a
 ```{r}
 t.test(pushups~position,data=mydata)
 ```
-
+  
+this shows is what it would be if there were no differences inbetween the amount of pushups line and skill players are able to do. since the 'P' vaule is vey small the number, we can conclude the number would be insignificant.
+  
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
