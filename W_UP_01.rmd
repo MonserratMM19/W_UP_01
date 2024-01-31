@@ -46,7 +46,9 @@ $H_A$: The average number of pushups done by line players is statistically diffe
 ```{r}
 boxplot(pushups~position,data=mydata)
 ```
-
+  
+the top of the box above 'line player' represents the 70% percentile of how many pushup the line player did, while the bottom line of the box represents a 22% percentile of the pushups a line payer did. the line payers are doing less pushup then the skill payers.
+  
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
@@ -54,6 +56,9 @@ boxplot(pushups~position,data=mydata)
 ```{r}
 favstats(pushups~position,data=mydata)
 ```
+  
+this shows that Q1 for the line players is 10.25 and Q1 for skill players with a 31.25.  the median shows the the line payer could do 14 and a half pushups, while the skill player can do 47 and a half pushups. this lets us go to the conclusion that skill players do much more pushups them line players.
+  
 
 ## Inferential Results
 
